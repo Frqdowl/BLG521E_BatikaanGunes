@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/ForAI/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"G:/ForAI/Content/StarterContent/Props/MaterialSphere.uasset",
+				"G:/ForAI/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"G:/ForAI/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"G:/ForAI/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"G:/ForAI/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"G:/ForAI/Content/FPWeapon/Mesh/MPC_GlobalParams.uasset",
+				"G:/ForAI/Content/FPWeapon/Mesh/GunMaterial.uasset",
+				"G:/ForAI/Content/FPWeapon/Mesh/SK_FPGun.uasset",
+				"G:/ForAI/Content/FPWeapon/Mesh/GunMaterial_Inst.uasset",
+				"G:/ForAI/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"G:/ForAI/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"G:/ForAI/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset",
+				"G:/ForAI/Content/FirstPerson/Input/Actions/Run.uasset",
+				"G:/ForAI/Content/FirstPerson/Input/IMC_Default.uasset",
+				"G:/ForAI/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"G:/ForAI/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"G:/ForAI/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/ZG/YEIP3EJIIMQSVB2XMNDVL4.uasset"
+			]
+		}
+	]
+}
